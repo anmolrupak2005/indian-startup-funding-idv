@@ -1,6 +1,14 @@
 # Indian Startup Funding Trends: An Interactive Visual Analysis by City, Sector, Year and Investor Type
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://indian-startup-funding-analytics.streamlit.app/)
+[![GitHub Pages](https://img.shields.io/badge/Web-GitHub%20Pages-blue?style=flat&logo=github)](https://anmolrupak2005.github.io/indian-startup-funding-idv/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Tests Passing](https://img.shields.io/badge/tests-11%20passed-success)](tests/test_clean.py)
+
 An enhanced, production-grade **Interactive Data Visualization (IDV)** capstone project developed for 7th-Semester B.Tech Computer Science & Engineering.
+
+> 🚀 **Live Interactive Dashboard:** [https://indian-startup-funding-analytics.streamlit.app/](https://indian-startup-funding-analytics.streamlit.app/)  
+> 🌐 **GitHub Pages Web Portfolio:** [https://anmolrupak2005.github.io/indian-startup-funding-idv/](https://anmolrupak2005.github.io/indian-startup-funding-idv/)
 
 ---
 
