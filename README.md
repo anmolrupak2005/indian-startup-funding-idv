@@ -17,6 +17,44 @@ This project implements a complete, reproducible **ETL & Data Visualization Pipe
 
 ---
 
+## 📸 Dashboard Walkthrough & Visual Previews
+
+### 1. Executive Overview & Automated Statistical Insights
+![Dashboard Overview](screenshots/01_dashboard_overview.png)
+* **Description:** The primary cockpit view features the header with dataset metadata and last-updated timestamp, four responsive KPI metric cards highlighting **Year-over-Year (YoY) percentage deltas**, the dual-axis annual capital infusion & deal volume trajectory, a macro period funding donut chart, and the **Automated Statistical Insights Panel** formulated dynamically using Pandas without external AI APIs.
+
+---
+
+### 2. Side-by-Side Period Comparison (Pre-COVID vs. COVID)
+![Period Comparison](screenshots/02_period_comparison.png)
+* **Description:** Comparative evaluation dissecting venture capital shifts across **Pre-COVID (≤2019)**, **COVID (2020–2021)**, and **Post-COVID (≥2022)** funding eras, highlighting changes in total capital ($M), deal count, average ticket sizes, and top 5 leading industry verticals.
+
+---
+
+### 3. Deal Size Tiers & Top Mega Deals ($100M+)
+![Deal Size Segmentation](screenshots/03_deal_size_segmentation.png)
+* **Description:** Comprehensive round segmentation categorizing transactions into `<$1M`, `$1–5M`, `$5–20M`, `$20–100M`, and `$100M+ Mega Deals`. Displays the annual proportion mix of ticket sizes and features an interactive table of the largest venture rounds (e.g. Flipkart, Paytm, Ola).
+
+---
+
+### 4. Investor Syndicate Network & Frequent Co-Investment Pairs
+![Investor Network](screenshots/04_investor_network.png)
+* **Description:** Identifies the most active institutional co-investment syndicates across India. Highlights institutional pairs who frequently back deals together (e.g., Sequoia Capital India, Tiger Global, Accel, Nexus Venture Partners) alongside an interactive bipartite NetworkX + Pyvis graph.
+
+---
+
+### 5. Statistical Modeling & 2-Year Horizon Forecast
+![Predictive Forecast](screenshots/05_predictive_forecast.png)
+* **Description:** Forward-looking 2-year trend modeling for deal counts and capital infusion using Scikit-Learn linear regression, complete with **95% confidence bands** and historical **Mean Absolute Error (MAE)** metrics.
+
+---
+
+### 6. End-to-End Pipeline Architecture Flow
+![Pipeline Architecture](screenshots/06_pipeline_architecture.png)
+* **Description:** Interactive Graphviz data flow diagram tracing row counts from raw ingestion (373 records) through deduplication (-2 rows), date repairs (-14 invalid timestamps), feature engineering (357 clean records), statistical chart generation, and dashboard delivery.
+
+---
+
 ## 🏗️ Architecture & Pipeline Flow
 
 ```
@@ -79,6 +117,13 @@ startup-funding-idv/
 │   └── config.toml                       # Custom theme & UI palette settings
 ├── data/                                 # Raw CSV data files
 │   └── startup_funding.csv               # Primary dataset (Sudalai Rajkumar)
+├── screenshots/                          # Dashboard UI walkthrough screenshots
+│   ├── 01_dashboard_overview.png
+│   ├── 02_period_comparison.png
+│   ├── 03_deal_size_segmentation.png
+│   ├── 04_investor_network.png
+│   ├── 05_predictive_forecast.png
+│   └── 06_pipeline_architecture.png
 ├── src/                                  # Modular source code
 │   ├── load.py                           # Step 1: Data collection & schema alignment
 │   ├── clean.py                          # Step 2: Data cleaning, regex parsing & reporting
@@ -91,7 +136,6 @@ startup-funding-idv/
 │   ├── cleaning_report.txt               # Audit report of merges, duplicates & missing values
 │   ├── insights.md                       # Computed statistical findings & key ecosystem metrics
 │   └── charts/                           # High-resolution PNG charts (300 DPI)
-├── screenshots/                          # Dashboard UI walkthrough screenshots
 ├── tests/
 │   └── test_clean.py                     # Pytest suite for amounts, dates & entity mappings
 ├── app.py                                # Streamlit + Plotly interactive dashboard (11 tabs)
