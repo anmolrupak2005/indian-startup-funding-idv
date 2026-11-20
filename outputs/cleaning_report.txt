@@ -1,0 +1,29 @@
+============================================================
+INDIAN STARTUP FUNDING: DATA CLEANING REPORT
+============================================================
+
+1. ROW SUMMARY:
+   - Initial Rows Loaded:       373
+   - Exact Duplicates Removed:  2
+   - Unparseable Dates Dropped: 14
+   - Final Cleaned Rows:        357 (95.7% retained)
+
+2. STANDARDIZATION & MERGES:
+   - Cities: 23 raw variations merged into 16 unique cities.
+   - City Groups: Delhi, Gurugram, and Noida unified under 'Delhi NCR'.
+   - Sectors: 24 variations normalized into 8 active sectors (<10 deals -> 'Others').
+   - Investment Stages: Standardized into 8 groups (Seed, Angel, Series A, Series B, Series C+, Private Equity, Debt, Others).
+
+3. MISSING VALUE AUDIT:
+   - date              :    0 missing (0.0%)
+   - startup           :    0 missing (0.0%)
+   - sector            :    0 missing (0.0%)
+   - city              :    0 missing (0.0%)
+   - investment_type   :    0 missing (0.0%)
+   - amount_usd        :   56 missing (15.7%)
+   - investor_count    :    0 missing (0.0%)
+
+4. FUNDING DISCLOSURE AUDIT:
+   - Disclosed Deals:   301 (84.3%)
+   - Undisclosed Deals: 56 (15.7%)
+============================================================

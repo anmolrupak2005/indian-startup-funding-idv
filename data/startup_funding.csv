@@ -1,0 +1,374 @@
+Sr No,Date dd/mm/yyyy,Startup Name,Industry Vertical,SubVertical,City Location,Investors Name,InvestmentnType,Amount in USD,Remarks
+1,01/02/2015,Urban Company,Consumer Internet,Lending Platform,Coimbatore,"Vy Capital, Tiger Global, Steadview Capital",Series E,undisclosed,Late stage expansion / acquired earlier
+2,20/09.2015,Delhivery,Gaming,Agritech Analytics,Gurugram,Kalaari Capital,Series E,"171,524,583",
+3,03/02/2015,Postman,DeepTech,SaaS CRM,Jaipur,"Tiger Global Management, Kunal Shah",Series C,"239,931,083",
+4,23/04/2015 ,BigBasket,ecommerce,Supply Chain Optimization,Ahmedabad,"Alibaba Group, Mirae Asset, CDC Group",Series F,unknown,
+5,09/11/2015,Zomato,Consumer Internet,Teleconsultation,Gurgaon,"Ant Financial, Info Edge, Temasek Holdings",Private Equity,"236,332,147",
+6,22/04/2015,Swiggy,Consumer Internet,B2B Marketplace,Ahmedabad,"Naspers, Tencent, Hillhouse Capital",Series G,"1,583,643,346",
+7,16/11/2015,Bounce,Consumer Internet,K-12 Education,Bengaluru,"Rajan Anandan, Orios Venture Partners",Private Equity,"188,508,611",Late stage expansion / acquired earlier
+8,03/08/2015,CRED,Fin-Tech,Agritech Analytics,Bengaluru,"Sequoia Capital India, Ribbit Capital, DST Global",Debt Funding,"209,926,459",
+9,22/01/2015,Infra.Market,CleanTech,Hyperlocal Delivery,Mumbai,"Tiger Global, Nexus Venture Partners",Series B,"31,654,852",Late stage expansion / acquired earlier
+10,25/09/2015,Razorpay,HealthTech,Cloud Kitchen,Bangalore / USA,"Ratan Tata, Sequoia Capital India, Undisclosed Investors",Series C,undisclosed,
+11,08/05/2015 ,Ather Energy,ecommerce,EV Charging Infrastructure,Coimbatore,Sachin Bansal,Series C,"26,206,304",
+12,07/07/2015,Delhivery,Technology,InsurTech,Gurugram,Matrix Partners India,Series F,"445,850,126",Late stage expansion / acquired earlier
+13,01/04/2015 ,Swiggy,Consumer Internet,B2B Marketplace,Mumbai,"Sachin Bansal, Anupam Mittal",Series G,N/A,
+14,19/10/2015,Rapido,Fintech,Lending Platform,Hyderabad,"Westbridge Capital, Nexus Venture Partners",Series B,"68,945,902",
+15,04/11/2015 ,Freshworks,ECommerce,Supply Chain Optimization,Chennai,Orios Venture Partners,Series H,"237,052,562",Late stage expansion / acquired earlier
+16,04/09/2015 ,Infra.Market,ecommerce,Supply Chain Optimization,Mumbai,"Tiger Global, Nexus Venture Partners",Series B,"3,052,238",
+17,09/07/2015,Bounce,Consumer Internet,EV Charging Infrastructure,Bengaluru,"Accel, B Capital Group, Falcon Edge Capital",Seed/ Angel Funding,"15,754,118",
+18,28/09/2015,Swiggy,ecommerce,Teleconsultation,Bangalore,"Naspers, Tencent, Hillhouse Capital",Private Equity,undisclosed,
+19,19/04/2015,Vedantu,EdTech,Hyperlocal Delivery,Gurgaon,"Matrix Partners India, Elevation Capital",Series D,"57,499,488",
+20,01/02/2015,Ather Energy,ecommerce,Cloud Kitchen,Bengaluru,"Hero MotoCorp, Sachin Bansal, InnoVen Capital",Series C,undisclosed,Late stage expansion / acquired earlier
+21,06/05/2015,Infra.Market,DeepTech,Online Retail,Coimbatore,"Tiger Global, Nexus Venture Partners",Angel Funding,"21,794,254",
+22,09/03/2015,Udaan,Fintech,SaaS CRM,Bengaluru,"DST Global, Lightspeed Venture Partners, Altimeter Capital",Seed/ Angel Funding,undisclosed,
+23,02/05.2015,Nykaa,ecommerce,Teleconsultation,Coimbatore,"Sequoia Capital India, SoftBank Vision Fund, Tiger Global Management",Angel Funding,"151,054,128",
+24,14/032015,Lenskart,eCommerce,InsurTech,New Delhi,"SoftBank Vision Fund, PremjiInvest, Kedaara Capital",Series G,"439,239,825",
+25,24/10/2015,Urban Company,FinTech,Agritech Analytics,Gurgaon,"Orios Venture Partners, Sachin Bansal",Series B,"74,053,088",Late stage expansion / acquired earlier
+26,28/01/2015,Delhivery,Food & Beverage,InsurTech,Gurugram,Matrix Partners India,Series F,"\xc2\xa0$231,101,060",
+27,12/05/2015,BharatPe,Fintech,Hyperlocal Delivery,Bombay,"Kalaari Capital, Rajan Anandan",Series C,undisclosed,
+28,24/06/2015,Eruditus,EdTech,Lending Platform,Mumbai,"Accel Partners, Orios Venture Partners",Series D,"112,128,882",
+29,24/12/2015,Khatabook,Fintech,Hyperlocal Delivery,Gurgaon / New Delhi,"Lightspeed Venture Partners, Ratan Tata, Sachin Bansal",Series B,"34,043,796",Late stage expansion / acquired earlier
+30,22/07/2015,Unacademy,EdTech,Fleet Management,Bangalore,"Lightspeed Venture Partners, Nexus Venture Partners",Series E,"131,530,832",
+31,22/08/2015,Rapido,Real Estate,Teleconsultation,Pune,"Undisclosed Investors, Chiratae Ventures, Tiger Global Management",Series B,"23,042,300",Late stage expansion / acquired earlier
+32,02/01/2015,Rapido,Consumer Internet,Payment Gateway,Hyderabad,"Nexus Venture Partners, India Quotient, Anupam Mittal",Series B,N/A,
+33,25/02/2015,Unacademy,Gaming,AI Workflow Automation,Bangalore,"General Atlantic, Sequoia Capital India, Blume Ventures",Debt Funding,N/A,
+34,18/09/2015,Cure.fit,HealthTech,Agritech Analytics,Coimbatore,"Temasek Holdings, Accel, Chiratae Ventures",Series D,"92,138,428",
+35,09/11/2015,Moglix,E-Commerce,SaaS CRM,Noida,Elevation Capital,Series D,"11,460,654",Late stage expansion / acquired earlier
+36,23/07/2015,Udaan,ECommerce,Hyperlocal Delivery,Bengaluru,"DST Global, Lightspeed Venture Partners, Altimeter Capital",Series D,"955,578,392",
+37,01/12/2015,Ather Energy,Automotive,Online Retail,Pune,"Kunal Shah, Undisclosed Investors",Debt,"\xc2\xa0$36,218,688",Late stage expansion / acquired earlier
+38,22/06/2015,BharatPe,Food & Beverage,K-12 Education,Coimbatore,"Coatue Management, Ribbit Capital, Insight Partners",Series C,"7,307,143",
+39,28/03/2015,Swiggy,Consumer Internet,Hyperlocal Delivery,Bangalore,"Naspers, Tencent, Hillhouse Capital",Private Equity,"1,151,204,119",
+40,16/02.2015,Infra.Market,ecommerce,Supply Chain Optimization,Bangalore / USA,"Tiger Global, Nexus Venture Partners",Series B,"20,784,576",
+41,05/04/2015,CRED,Fin-Tech,AI Workflow Automation,Chennai,"Sequoia Capital India, Ribbit Capital, DST Global",Seed / Angel,"40,390,820",
+42,01/10/2015,Ather Energy,Automotive,Wealth Management,Bengaluru,Rajan Anandan,Series B,undisclosed,
+43,20/11/2015,Ather Energy,Consumer Internet,Agritech Analytics,Mumbai,"Sequoia Capital India, Orios Venture Partners",Seed / Angel,"34,875,282",
+44,23/08/2015,Unacademy,CleanTech,SaaS CRM,Coimbatore,"Orios Venture Partners, Rajan Anandan",Series E,"165,415,721",Late stage expansion / acquired earlier
+45,08/08/2015,Ather Energy,Automotive,Wealth Management,Bengaluru,"Hero MotoCorp, Sachin Bansal, InnoVen Capital",Series C,"34,218,128",Late stage expansion / acquired earlier
+46,20/05/2015,CarDekho,Consumer Internet,Cloud Kitchen,Jaipur,"Kunal Shah, Matrix Partners India",Debt,"5,612,299",Late stage expansion / acquired earlier
+47,23/07/2015,Practo,HealthTech,InsurTech,Bangalore,"Info Edge, Kae Capital",Series D,"17,636,073",Late stage expansion / acquired earlier
+48,24/02/2015,Unacademy,EdTech,EV Charging Infrastructure,Bangalore,"Undisclosed Investors, Lightspeed Venture Partners, SoftBank Vision Fund",Series D,"41,738,569",Late stage expansion / acquired earlier
+49,05/09/2015,Swiggy,Consumer Internet,K-12 Education,Indore,"Naspers, Tencent, Hillhouse Capital",Series G,"678,714,208",
+50,09/01/2015,Rapido,Consumer Internet,Payment Gateway,Hyderabad,"Westbridge Capital, Nexus Venture Partners",Seed/ Angel Funding,N/A,
+51,03/05/2015,CRED,FinTech,Supply Chain Optimization,Ahmedabad,"Sequoia Capital India, Ribbit Capital, DST Global",Series B,"213,906,564",
+52,02/10/2015,Razorpay,Fintech,Cloud Kitchen,Bangalore / USA,"Sequoia Capital India, Tiger Global, Y Combinator",Series C,"24,294,905",
+53,20/12/2015,Ola Cabs,Consumer Internet,Fleet Management,Jaipur,"SoftBank Group, Tencent Holdings, Matrix Partners India",Series D,"495,623,872",
+54,14/042015,BigBasket,ecommerce,K-12 Education,Bengaluru,"Alibaba Group, Mirae Asset, CDC Group",Series F,"156,916,850",Late stage expansion / acquired earlier
+55,15/02/2015,BharatPe,AgriTech,EV Charging Infrastructure,Delhi,"Chiratae Ventures, Undisclosed Investors",Series C,undisclosed,
+56,19/10/2015,CarDekho,Consumer Internet,Teleconsultation,Jaipur,"Kalaari Capital, Rajan Anandan",Series D,"122,209,266",
+57,11/07/2015,Razorpay,Healthcare,Agritech Analytics,Pune,"Kunal Shah, Accel Partners",Series C,"46,179,684",
+58,28/07/2015,Flipkart,ECommerce,Agritech Analytics,Bengaluru,"Anupam Mittal, Binny Bansal, Kae Capital",Series A,"463,418,520",Late stage expansion / acquired earlier
+59,16/122015,Zetwerk,Gaming,Teleconsultation,Bengaluru,"Greenoaks Capital, Lightspeed, Sequoia Capital India",Series C,"124,968,681",Late stage expansion / acquired earlier
+60,21/02/2015,InCred,HealthTech,SaaS CRM,Mumbai,"FMO, Investcorp, Paragon Partners",Series A,"18,187,406",Late stage expansion / acquired earlier
+61,17/10/2015,Nykaa,Edtech,Agritech Analytics,Mumbai,"Sequoia Capital India, Lightspeed Venture Partners",Debt,"83,145,793",
+62,18/06/2015,Groww,FinTech,Cloud Kitchen,Gurugram,Orios Venture Partners,Series C,"38,524,463",
+63,22/07/2015,Meesho,eCommerce,K-12 Education,Bangalore,Kae Capital,Series D,"9,607,287",Late stage expansion / acquired earlier
+64,05/11/2015 ,Pine Labs,Fintech,Wealth Management,Hyderabad,"India Quotient, Chiratae Ventures, Binny Bansal",Debt,"14,102,928",Late stage expansion / acquired earlier
+65,22/11/2015,BigBasket,Logistics,Lending Platform,Mumbai / USA,"Kalaari Capital, Lightspeed Venture Partners",Seed/ Angel Funding,"22,231,297",
+66,05/07/2015,Spinny,Consumer Internet,Teleconsultation,Gurgaon,"General Catalyst, Tiger Global, Elevation Capital",Series B,"69,584,123",Late stage expansion / acquired earlier
+67,09/11/2015,Flipkart,Food & Beverage,Fleet Management,Delhi,"SoftBank Vision Fund, Tiger Global Management, Accel Partners",Series D,"1,109,556,899",Late stage expansion / acquired earlier
+68,07/05/2015,Rapido,Consumer Internet,Wealth Management,Hyderabad,"Lightspeed Venture Partners, Sequoia Capital India, Sachin Bansal",Series B,undisclosed,
+69,02/12/2015,InCred,HealthTech,Supply Chain Optimization,Chennai,"FMO, Investcorp, Paragon Partners",Series A,"57,334,639",
+70,invalid-date-13,Ola Cabs,Consumer Internet,AI Workflow Automation,Bengaluru,"SoftBank Group, Tencent Holdings, Matrix Partners India",Series D,"310,879,234",
+71,26/03/2016,Khatabook,FinTech,Teleconsultation,Bengaluru,"Lightspeed Venture Partners, Chiratae Ventures",Debt Funding,"17,779,486",
+72,24/11/2016,BharatPe,SaaS,InsurTech,Delhi,"Coatue Management, Ribbit Capital, Insight Partners",Series C,N/A,
+73,22/12/2016,Groww,Consumer Internet,Lending Platform,Indore,"Tiger Global, Sequoia Capital India, Y Combinator",Series E,"13,121,778",Late stage expansion / acquired earlier
+74,23/08/2016,Spinny,Consumer Internet,B2B Marketplace,Pune,SoftBank Vision Fund,Series C,"47,458,463",
+75,23/12/2016,Spinny,Consumer Internet,K-12 Education,Bangalore / USA,"General Catalyst, Tiger Global, Elevation Capital",Series C,"111,485,573",Late stage expansion / acquired earlier
+76,07/06/2016,Urban Company,ECommerce,InsurTech,Gurgaon,"Accel Partners, India Quotient",Series E,"128,307,665",
+77,22/02/2016,Zetwerk,E-Commerce,Hyperlocal Delivery,Bengaluru,"Greenoaks Capital, Lightspeed, Sequoia Capital India",Seed / Angle Funding,"122,383,635",
+78,11/04/2016,Zetwerk,Technology,K-12 Education,Coimbatore,"Greenoaks Capital, Lightspeed, Sequoia Capital India",Series C,"11,413,831",Late stage expansion / acquired earlier
+79,19/04/2016,Unacademy,EdTech,K-12 Education,Chandigarh,"General Atlantic, Sequoia Capital India, Blume Ventures",Series E,"75,192,502",
+80,17/08/2016,Vedantu,EdTech,Fleet Management,Bangalore,Anupam Mittal,PrivateEquity,"90,797,049",
+81,03/02/2016,Meesho,ecommerce,Hyperlocal Delivery,Bangalore,"Kae Capital, Ratan Tata",Seed / Angel,"31,278,078",
+82,24/09/2016,Eruditus,EdTech,Supply Chain Optimization,Mumbai,"Orios Venture Partners, SoftBank Vision Fund",Series D,"56,054,457",
+83,16/11/2016 ,Byju's,EdTech,Lending Platform,Chennai,"Accel Partners, Rajan Anandan, Kunal Shah",Seed / Angel,"852,558,966",
+84,28/07/2016,Swiggy,DeepTech,Fleet Management,Bangalore,Blume Ventures,Series B,"662,699,489",
+85,25/02/2016,BigBasket,SaaS,Online Retail,Gurgaon / New Delhi,"Sequoia Capital India, Kalaari Capital",Series F,"249,403,599",
+86,invalid-date-85,BharatPe,Fintech,Online Retail,Delhi,"Orios Venture Partners, Kae Capital",Series C,"98,459,470",
+87,20/10/2016 ,Swiggy,Consumer Internet,B2B Marketplace,Noida,"Naspers, Tencent, Hillhouse Capital",Series G,"774,821,541",Late stage expansion / acquired earlier
+88,04/09/2016,CRED,Fintech,EV Charging Infrastructure,Bengaluru,"Sequoia Capital India, Ribbit Capital, DST Global",Series B,"17,504,211",Late stage expansion / acquired earlier
+89,invalid-date-33,Pharmeasy,HealthTech,Online Retail,Mumbai,"Temasek, CDPQ, LGT Lightstone Aspada",Series D,"99,592,625",
+90,26/11/2016,BharatPe,E-Commerce,Agritech Analytics,Delhi,"Rajan Anandan, Orios Venture Partners",PrivateEquity,"45,377,423",
+91,26/03/2016,Bounce,Consumer Internet,Payment Gateway,Bengaluru,"Accel, B Capital Group, Falcon Edge Capital",Series D,"19,701,402",
+92,11/12/2016,PolicyBazaar,Fintech,Lending Platform,Gurgaon / New Delhi,"SoftBank Vision Fund, Info Edge, True North",Series F,"296,632,010",
+93,invalid-date-26,Unacademy,EdTech,Payment Gateway,Bangalore,"Kae Capital, Rajan Anandan",Debt Funding,"175,294,270",
+94,11/10/2016,Cars24,Consumer Internet,Payment Gateway,Gurgaon,"Rajan Anandan, Accel Partners",Series E,undisclosed,
+95,02/01/2016,Pharmeasy,HealthTech,Payment Gateway,Chandigarh,"Temasek, CDPQ, LGT Lightstone Aspada",Seed/ Angel Funding,"322,779,128",
+96,20/06/2016,Meesho,Food & Beverage,Lending Platform,Hyderabad,Ratan Tata,Seed/ Angel Funding,"79,719,784",
+97,20/09/2016,Khatabook,Technology,Agritech Analytics,Gurgaon / New Delhi,"Binny Bansal, Chiratae Ventures, Tiger Global Management",Series B,"43,589,241",Late stage expansion / acquired earlier
+98,20/11/2016,Freshworks,Technology,K-12 Education,Pune,"Sachin Bansal, India Quotient, Blume Ventures",Seed / Angle Funding,"106,378,317",
+99,22/03/2016,Moglix,ECommerce,InsurTech,Noida,"Tiger Global, Falcon Edge Capital, Sequoia Capital India",Series E,"54,058,446",Late stage expansion / acquired earlier
+100,05/03/2016 ,Razorpay,Fintech,B2B Marketplace,Kochi,"Sequoia Capital India, Tiger Global, Y Combinator",Series C,unknown,
+101,26/10/2016,Cure.fit,HealthTech,InsurTech,Gurugram,"Lightspeed Venture Partners, Kae Capital, Matrix Partners India",Series D,"156,491,271",
+102,12/04/2016,Ather Energy,Food & Beverage,Fleet Management,Chandigarh,Nexus Venture Partners,Angel Funding,"7,207,047",
+103,18/06/2016,Moglix,HealthTech,Payment Gateway,Noida,"Tiger Global, Falcon Edge Capital, Sequoia Capital India",PrivateEquity,undisclosed,
+104,12/08/2016,Spinny,Consumer Internet,InsurTech,Gurgaon,"Matrix Partners India, Sequoia Capital India",Series C,undisclosed,
+105,invalid-date-5,Pharmeasy,Automotive,K-12 Education,Indore,"Temasek, CDPQ, LGT Lightstone Aspada",Series D,undisclosed,Late stage expansion / acquired earlier
+106,18/03/2016,Zetwerk,Technology,Lending Platform,Gurugram,"Greenoaks Capital, Lightspeed, Sequoia Capital India",Series C,"172,718,812",
+107,27/02/2016,Zetwerk,Technology,Supply Chain Optimization,Pune,"Greenoaks Capital, Lightspeed, Sequoia Capital India",Series B,"45,335,921",
+108,12/09/2016 ,Moglix,eCommerce,Wealth Management,Bengaluru,"Elevation Capital, Sequoia Capital India",Series D,undisclosed,Late stage expansion / acquired earlier
+109,21/112016,Practo,Healthcare,K-12 Education,Bangalore,"Kalaari Capital, Sachin Bansal, Kae Capital",Debt,"80,856,651",Late stage expansion / acquired earlier
+110,02/08/2016,Ola Cabs,E-Commerce,Hyperlocal Delivery,Chandigarh,"SoftBank Group, Tencent Holdings, Matrix Partners India",Debt,"476,645,459",Late stage expansion / acquired earlier
+111,28/06/2016,Freshworks,Technology,InsurTech,Chennai,"Sequoia Capital, Accel Partners, CapitalG",Series H,"96,497,114",Late stage expansion / acquired earlier
+112,16/12/2016,Moglix,eCommerce,Agritech Analytics,Noida,Kunal Shah,Series D,undisclosed,
+113,10/05/2016,Eruditus,EdTech,AI Workflow Automation,Mumbai,"Prosus Ventures, Chan Zuckerberg Initiative",Series F,"91,659,484",
+114,03/01/2016,BharatPe,Fintech,Teleconsultation,New Delhi,"Kae Capital, Accel Partners, Blume Ventures",Series C,"51,830,612",
+115,02/10/2016,Cure.fit,Consumer Internet,AI Workflow Automation,Goa,"Temasek Holdings, Accel, Chiratae Ventures",Series D,"59,147,780",
+116,24/01/2016,Moglix,eCommerce,SaaS CRM,Mumbai / USA,"Tiger Global, Falcon Edge Capital, Sequoia Capital India",Series D,"107,856,028",Late stage expansion / acquired earlier
+117,28/03/2016 ,Unacademy,Food & Beverage,Payment Gateway,Hyderabad,"Tiger Global Management, Kunal Shah, Lightspeed Venture Partners",Angel,"184,009,957",
+118,17/06/2016,Delhivery,EdTech,EV Charging Infrastructure,Gurugram,"Kae Capital, Kunal Shah",Series F,"68,169,443",
+119,24/12/2016,Spinny,Hospitality,Payment Gateway,Gurgaon,"General Catalyst, Tiger Global, Elevation Capital",Series C,"62,099,701",Late stage expansion / acquired earlier
+120,21/09/2016,Nykaa,eCommerce,Lending Platform,Mumbai,"Steadview Capital, TPG Growth, Fidelity Management",Private Equity,"44,457,299",
+121,10/09/2016,Pine Labs,Fintech,SaaS CRM,Noida,"Temasek, PayPal Ventures, Mastercard",Others,"135,708,097",
+122,22/03/2016,Zetwerk,Technology,B2B Marketplace,Bangalore,"Greenoaks Capital, Lightspeed, Sequoia Capital India",Series C,"167,061,390",
+123,01/11/2016,Infra.Market,ecommerce,EV Charging Infrastructure,Mumbai,"Lightspeed Venture Partners, Kae Capital",Series B,undisclosed,
+124,15/08/2016,Zetwerk,Technology,Hyperlocal Delivery,Chennai,Info Edge,Seed / Angel,"103,959,239",Late stage expansion / acquired earlier
+125,05/04/2016 ,Pharmeasy,DeepTech,Agritech Analytics,Mumbai,Chiratae Ventures,Series E,"\xc2\xa0$71,077,462",
+126,16/08/2016,InCred,FinTech,AI Workflow Automation,Gurgaon,Accel Partners,Series A,"91,499,212",
+127,01/09/2017,Eruditus,EdTech,SaaS CRM,Ahmedabad,"Prosus Ventures, Chan Zuckerberg Initiative",Series D,"44,143,085",
+128,13/02/2017,Rebel Foods,Food & Beverage,Lending Platform,Pune,"Coatue, Gojek, Sequoia Capital India",Series D,"128,275,714",
+129,07/03/2017,BharatPe,Fin-Tech,B2B Marketplace,Delhi,"Coatue Management, Ribbit Capital, Insight Partners",Series C,"83,321,693",
+130,20/06/2017,BharatPe,Real Estate,Fleet Management,Delhi,"Kunal Shah, Anupam Mittal, Rajan Anandan",Series C,"52,096,962",
+131,19/07/2017,Paytm,FinTech,Supply Chain Optimization,Goa,"Alibaba Group, SoftBank, Berkshire Hathaway",Private Equity,N/A,
+132,19/01/2017,CRED,FinTech,Hyperlocal Delivery,Bengaluru,"Sequoia Capital India, Ribbit Capital, DST Global",Series B,"134,410,392",
+133,24/12/2017 ,Nykaa,ecommerce,EV Charging Infrastructure,Mumbai,"Steadview Capital, TPG Growth, Fidelity Management",Private Equity,"64,907,228",
+134,22/12/2017,Pine Labs,Fin-Tech,Supply Chain Optimization,Noida,"Temasek, PayPal Ventures, Mastercard",Series D,"160,447,079",
+135,11/08/2017,Rebel Foods,Real Estate,SaaS CRM,Pune,"India Quotient, Info Edge, Blume Ventures",Series D,"114,267,660",
+136,21/08/2017,Rapido,Consumer Internet,SaaS CRM,Mumbai / USA,"Westbridge Capital, Nexus Venture Partners",Series B,"24,374,668",Late stage expansion / acquired earlier
+137,08/09/2017,Swiggy,Consumer Internet,Hyperlocal Delivery,Bombay,Sequoia Capital India,Angel,"1,686,306,172",
+138,21/08/2017,Pharmeasy,HealthTech,B2B Marketplace,Mumbai,Kunal Shah,Seed/ Angel Funding,"78,399,938",
+139,02/03/2017,BharatPe,FinTech,Fleet Management,Bangalore,"Coatue Management, Ribbit Capital, Insight Partners",Series E,"89,182,460",
+140,05/08/2017,Bounce,Consumer Internet,Lending Platform,Bengaluru,"Elevation Capital, Kalaari Capital, Sequoia Capital India",Series D,"144,400,705",Late stage expansion / acquired earlier
+141,13/11/2017,Lead School,EdTech,Wealth Management,Delhi,"Chiratae Ventures, Matrix Partners India",Series C,"23,290,040",Late stage expansion / acquired earlier
+142,10/06/2017,Ather Energy,Automotive,InsurTech,Bengaluru,"Lightspeed Venture Partners, Kalaari Capital",Series C,"82,439,314",
+143,23/052017,Pharmeasy,HealthTech,Supply Chain Optimization,Mumbai,"Temasek, CDPQ, LGT Lightstone Aspada",Series D,"244,209,495",
+144,16/09/2017,Udaan,Media & Entertainment,Payment Gateway,Bengaluru,"Tiger Global Management, Rajan Anandan",Series D,"953,581,754",Late stage expansion / acquired earlier
+145,05/09/2017,Moglix,E-Commerce,EV Charging Infrastructure,Noida,Kae Capital,Series D,"62,210,674",
+146,26/11/2017,Paytm,Fin-Tech,Cloud Kitchen,Noida,"Alibaba Group, SoftBank, Berkshire Hathaway",Private Equity,undisclosed,
+147,16/02.2017,Spinny,Consumer Internet,K-12 Education,Bangalore / USA,"India Quotient, Kae Capital",Private Equity,"80,910,577",
+148,05/09/2017,Postman,Technology,Wealth Management,Bengaluru,Sequoia Capital India,Series D,"196,262,168",
+149,27/07/2017,Bounce,Consumer Internet,SaaS CRM,Bengaluru,Accel Partners,PrivateEquity,"177,283,719",
+150,07/04/2017 ,Zetwerk,Technology,B2B Marketplace,Bengaluru,"Greenoaks Capital, Lightspeed, Sequoia Capital India",Series C,"164,420,998",
+151,17/03/2017,BigBasket,Real Estate,Hyperlocal Delivery,Bengaluru,"Matrix Partners India, Lightspeed Venture Partners",Others,"75,075,143",Late stage expansion / acquired earlier
+152,24/10/2017,Eruditus,EdTech,B2B Marketplace,Bangalore / USA,"Chiratae Ventures, Orios Venture Partners, Blume Ventures",Series D,"\xc2\xa0$96,400,251",Late stage expansion / acquired earlier
+153,10/04/2017,Meesho,E-Commerce,Agritech Analytics,Coimbatore,"Matrix Partners India, Elevation Capital",Series D,"207,986,960",
+154,18/02/2017,Delhivery,Logistics,Wealth Management,Kochi,"SoftBank Vision Fund, Carlyle Group, Tiger Global",Series F,"445,326,111",
+155,16/04/2017,Freshworks,Technology,Online Retail,Chennai,"Sequoia Capital, Accel Partners, CapitalG",Debt,"190,101,899",
+156,08/07/2017,Pharmeasy,HealthTech,InsurTech,Mumbai,"Temasek, CDPQ, LGT Lightstone Aspada",Debt Funding,undisclosed,
+157,25/08/2017,Udaan,ECommerce,B2B Marketplace,Bengaluru,"DST Global, Lightspeed Venture Partners, Altimeter Capital",Series D,"663,833,576",
+158,10/07/2017,Freshworks,Technology,Supply Chain Optimization,Chennai,"Chiratae Ventures, Elevation Capital, Anupam Mittal",Debt,"199,852,712",
+159,24/03/2017,Unacademy,SaaS,B2B Marketplace,Bangalore,Sachin Bansal,Series E,undisclosed,Late stage expansion / acquired earlier
+160,08/11/2017 ,Meesho,ECommerce,InsurTech,Bangalore,"Anupam Mittal, Sachin Bansal, Sequoia Capital India",Series D,"8,842,399",
+161,18/05/2017,Paytm,Fintech,Agritech Analytics,Delhi,"Alibaba Group, SoftBank, Berkshire Hathaway",Private Equity,N/A,Late stage expansion / acquired earlier
+162,09/09/2017,CarDekho,ecommerce,InsurTech,Jaipur,"Matrix Partners India, Lightspeed Venture Partners, Sachin Bansal",Seed / Angle Funding,"108,631,846",
+163,13/02/2017,Rebel Foods,Food & Beverage,Online Retail,Mumbai,"Coatue, Gojek, Sequoia Capital India",Series D,"130,031,137",
+164,17/02/2017,BigBasket,ECommerce,SaaS CRM,Bengaluru,"Alibaba Group, Mirae Asset, CDC Group",Seed/ Angel Funding,unknown,
+165,07/01/2017,BharatPe,HealthTech,Teleconsultation,Delhi,"Sachin Bansal, Kunal Shah",Series C,"22,118,515",
+166,03/12/2017,Postman,Technology,Agritech Analytics,Bengaluru,"Insight Partners, Nexus Venture Partners, CRV",Private Equity,"93,173,869",
+167,16/08/2017,Rebel Foods,Logistics,Teleconsultation,Gurgaon / New Delhi,"Coatue, Gojek, Sequoia Capital India",Series D,"162,242,491",Late stage expansion / acquired earlier
+168,13/03/2017,Meesho,Healthcare,InsurTech,Bangalore,"Naspers Ventures, Sequoia Capital India, Shunwei Capital",Series D,"65,261,409",Late stage expansion / acquired earlier
+169,14/03/2017,Rebel Foods,Food & Beverage,Lending Platform,Pune,"Coatue, Gojek, Sequoia Capital India",Series D,"77,219,134",
+170,14/05/2017,Byju's,SaaS,Supply Chain Optimization,Bengaluru,"General Atlantic, Chan Zuckerberg Initiative, Naspers",Private Equity,N/A,
+171,05/08/2017 ,Eruditus,EdTech,Fleet Management,Mumbai,"Prosus Ventures, Chan Zuckerberg Initiative",Series D,"93,228,806",
+172,15/042017,Lenskart,ECommerce,Hyperlocal Delivery,Ahmedabad,"Kae Capital, Chiratae Ventures",Series G,"327,061,488",
+173,11/05/2017,Delhivery,Logistics,Teleconsultation,Hyderabad,"SoftBank Vision Fund, Carlyle Group, Tiger Global",Debt,"585,821,975",
+174,27/05/2017,Khatabook,Fintech,Cloud Kitchen,Bengaluru,"Kunal Shah, Sequoia Capital India, Kae Capital",Series A,"33,589,776",
+175,22/07/2017,Lenskart,E-Commerce,Agritech Analytics,Mumbai,"SoftBank Vision Fund, PremjiInvest, Kedaara Capital",Private Equity,"458,182,331",
+176,18/07.2017,Khatabook,SaaS,Payment Gateway,Bengaluru,"B Capital Group, Sequoia Capital India, Falcon Edge",Angel,"7,651,152",
+177,21/11/2017,Freshworks,Logistics,Lending Platform,Chennai,"Sequoia Capital, Accel Partners, CapitalG",Others,"188,011,907",Late stage expansion / acquired earlier
+178,13/06/2017,Practo,HealthTech,K-12 Education,Bangalore,"Tencent, Sofina, Sequoia Capital India",Series D,"95,316,307",Late stage expansion / acquired earlier
+179,05/12/2017,Freshworks,Technology,Cloud Kitchen,Chennai,"Sequoia Capital, Accel Partners, CapitalG",Series H,"126,267,388",Late stage expansion / acquired earlier
+180,26/01/2017,Paytm,CleanTech,Lending Platform,Delhi,"Matrix Partners India, Ratan Tata, Kalaari Capital",Series E,"1,727,309,588",Late stage expansion / acquired earlier
+181,21/07/2017,Eruditus,EdTech,Cloud Kitchen,Mumbai,"Prosus Ventures, Chan Zuckerberg Initiative",Series D,"\xc2\xa0$55,334,152",
+182,19/022017,Infra.Market,ecommerce,Cloud Kitchen,Mumbai,"Tiger Global, Nexus Venture Partners",Others,"11,969,143",
+183,19/072017,Postman,DeepTech,Teleconsultation,Mumbai / USA,"Rajan Anandan, Tiger Global Management, Sachin Bansal",Series C,undisclosed,
+184,12/03/2017,Lead School,EdTech,K-12 Education,Mumbai,"Westbridge Capital, Elevar Equity",Series C,"46,438,888",
+185,18/03/2017,Pharmeasy,HealthTech,Hyperlocal Delivery,Kochi,"Temasek, CDPQ, LGT Lightstone Aspada",Series D,undisclosed,Late stage expansion / acquired earlier
+186,17/09/2018,Spinny,Consumer Internet,Agritech Analytics,Jaipur,"General Catalyst, Tiger Global, Elevation Capital",Series C,undisclosed,
+187,02/05/2018,Infra.Market,ECommerce,EV Charging Infrastructure,Mumbai,"Tiger Global, Nexus Venture Partners",Series B,"29,814,898",
+188,25/01/2018,Infra.Market,ECommerce,Lending Platform,Bangalore / USA,"Accel Partners, Kae Capital",Series B,"4,044,405",
+189,25/02/2018,Udaan,Hospitality,InsurTech,Kochi,Undisclosed Investors,Series D,"\xc2\xa0$227,986,088",Late stage expansion / acquired earlier
+190,18/06/2018,Infra.Market,ecommerce,Fleet Management,Mumbai,"Sachin Bansal, SoftBank Vision Fund, Blume Ventures",PrivateEquity,"35,737,017",
+191,23/03/2018,Urban Company,Consumer Internet,Hyperlocal Delivery,Gurgaon / New Delhi,"Vy Capital, Tiger Global, Steadview Capital",Series E,"86,150,432",
+192,21/02/2018,Byju's,EdTech,SaaS CRM,Chennai,"General Atlantic, Chan Zuckerberg Initiative, Naspers",Private Equity,"848,117,835",
+193,24/02/2018,Postman,SaaS,Wealth Management,Bengaluru,"Insight Partners, Nexus Venture Partners, CRV",Series C,"154,251,542",
+194,05/10/2018,InCred,Media & Entertainment,B2B Marketplace,Mumbai,"Sequoia Capital India, SoftBank Vision Fund",Angel,"3,070,972",
+195,23/04/2018,Lenskart,ecommerce,Payment Gateway,Noida,"SoftBank Vision Fund, PremjiInvest, Kedaara Capital",Angel,undisclosed,
+196,23/12/2018,Eruditus,EdTech,Lending Platform,Mumbai,"Prosus Ventures, Chan Zuckerberg Initiative",Series D,"99,438,047",Late stage expansion / acquired earlier
+197,11/12/2018,Eruditus,EdTech,EV Charging Infrastructure,Mumbai,"Prosus Ventures, Chan Zuckerberg Initiative",Seed / Angel,undisclosed,
+198,05/05/2018,Nykaa,E-Commerce,Payment Gateway,Mumbai,"Steadview Capital, TPG Growth, Fidelity Management",Debt Funding,"42,284,703",
+199,20/07/2018,Udaan,eCommerce,K-12 Education,Goa,"Orios Venture Partners, Chiratae Ventures",Series B,"166,285,498",
+200,24/10/2018,Paytm,Media & Entertainment,Fleet Management,Noida,India Quotient,Private Equity,undisclosed,
+201,16/04/2018,Urban Company,Consumer Internet,Payment Gateway,Gurgaon,"Chiratae Ventures, Blume Ventures",Series E,"58,988,338",
+202,25/03/2018,Zomato,Consumer Internet,Payment Gateway,Gurgaon,"Ant Financial, Info Edge, Temasek Holdings",Private Equity,"241,499,730",
+203,14/07/2018,Byju's,EdTech,K-12 Education,Bengaluru,"General Atlantic, Chan Zuckerberg Initiative, Naspers",Series A,"173,831,389",
+204,21/10/2018,Zomato,Consumer Internet,Agritech Analytics,Gurugram,"Ant Financial, Info Edge, Temasek Holdings",Private Equity,"177,114,152",
+205,22/05/2018,Unacademy,EdTech,K-12 Education,Delhi,"General Atlantic, Sequoia Capital India, Blume Ventures",Series E,"163,832,572",Late stage expansion / acquired earlier
+206,05/06/2018,CarDekho,ECommerce,Online Retail,Jaipur,"Ping An Global Voyager Fund, Sequoia Capital India",Series C,"74,139,830",Late stage expansion / acquired earlier
+207,17/08/2018,InCred,FinTech,InsurTech,Mumbai,"Sachin Bansal, SoftBank Vision Fund, Matrix Partners India",Seed Funding,undisclosed,
+208,02/04/2018,Groww,FinTech,B2B Marketplace,Bangalore,"Binny Bansal, Orios Venture Partners, Matrix Partners India",Series C,"39,315,115",Late stage expansion / acquired earlier
+209,19/02/2018,Lead School,EdTech,B2B Marketplace,Mumbai,India Quotient,Series C,"15,233,036",
+210,03/06/2018,Flipkart,ecommerce,Fleet Management,Gurugram,"SoftBank Vision Fund, Tiger Global Management, Accel Partners",Debt,"1,970,920,592",
+211,25/09/2018,Meesho,ECommerce,Online Retail,Bangalore,"Naspers Ventures, Sequoia Capital India, Shunwei Capital",Seed Funding,"6,569,821",
+212,24/12/2018,Udaan,E-Commerce,Agritech Analytics,Bengaluru,"DST Global, Lightspeed Venture Partners, Altimeter Capital",Series C,undisclosed,
+213,14/09/2018,Khatabook,Fintech,Payment Gateway,Bengaluru,"India Quotient, Tiger Global Management, Rajan Anandan",PrivateEquity,"16,724,370",Late stage expansion / acquired earlier
+214,26/06/2018,Cars24,Consumer Internet,SaaS CRM,Gurgaon,Rajan Anandan,Series E,undisclosed,
+215,14/062018,Postman,Fintech,AI Workflow Automation,Bengaluru,"Insight Partners, Nexus Venture Partners, CRV",Series C,N/A,
+216,23/12/2018,Udaan,Healthcare,K-12 Education,Bengaluru,"DST Global, Lightspeed Venture Partners, Altimeter Capital",Series D,"722,516,482",Late stage expansion / acquired earlier
+217,01/03/2018,Cure.fit,HealthTech,Supply Chain Optimization,Bengaluru,"Temasek Holdings, Accel, Chiratae Ventures",Seed / Angel,undisclosed,
+218,05/04/2018,BharatPe,Fintech,Payment Gateway,Delhi,"Coatue Management, Ribbit Capital, Insight Partners",Seed Funding,"29,704,731",
+219,03/03/2018,Freshworks,Technology,AI Workflow Automation,Chennai,"India Quotient, Anupam Mittal",Series H,"52,861,893",Late stage expansion / acquired earlier
+220,09/03/2018,Meesho,E-Commerce,Fleet Management,Bangalore,"Accel Partners, Tiger Global Management",Series D,N/A,Late stage expansion / acquired earlier
+221,08/09/2018,Infra.Market,Technology,InsurTech,Mumbai,"Rajan Anandan, Ratan Tata",Series B,"4,521,259",
+222,26/01/2018,Swiggy,Automotive,InsurTech,Gurugram,Matrix Partners India,Series C,"1,434,665,121",
+223,19/04/2018,Groww,Fin-Tech,Teleconsultation,Bangalore,"Tiger Global, Sequoia Capital India, Y Combinator",Series F,"2,980,844",
+224,invalid-date-25,InCred,Fin-Tech,EV Charging Infrastructure,Mumbai,"FMO, Investcorp, Paragon Partners",Seed Funding,"3,071,767",
+225,invalid-date-92,Unacademy,Healthcare,B2B Marketplace,Bangalore,SoftBank Vision Fund,Series F,"77,416,225",
+226,19/072018,Lenskart,E-Commerce,Agritech Analytics,Indore,Kunal Shah,Series F,"216,961,292",Late stage expansion / acquired earlier
+227,24/05/2018,Nykaa,eCommerce,Wealth Management,Goa,"Steadview Capital, TPG Growth, Fidelity Management",Series B,"23,219,290",
+228,24/06/2018 ,Postman,FinTech,Payment Gateway,Gurgaon / New Delhi,"Kae Capital, Sequoia Capital India",Series C,"40,169,217",Late stage expansion / acquired earlier
+229,24/02.2018,Groww,FinTech,Teleconsultation,Indore,"Kunal Shah, India Quotient",Series C,"46,862,662",
+230,08/11/2018,Zomato,E-Commerce,Fleet Management,Gurgaon,"Ant Financial, Info Edge, Temasek Holdings",Private Equity,"336,814,740",Late stage expansion / acquired earlier
+231,18/02/2018,Byju's,EdTech,EV Charging Infrastructure,Kolkata,Undisclosed Investors,Angel,undisclosed,
+232,14/04/2018,Infra.Market,ecommerce,Fleet Management,Mumbai,"Tiger Global, Nexus Venture Partners",Debt,N/A,
+233,03/07/2018,Zetwerk,Technology,Lending Platform,Bengaluru,"Greenoaks Capital, Lightspeed, Sequoia Capital India",Series C,undisclosed,
+234,26/05/2018,InCred,Edtech,Payment Gateway,Ahmedabad,"FMO, Investcorp, Paragon Partners",Series F,"\xc2\xa0$9,747,821",
+235,08/05/2018,Ather Energy,Automotive,Lending Platform,Bengaluru,"Hero MotoCorp, Sachin Bansal, InnoVen Capital",Series B,"77,591,147",
+236,18/07/2018,Rapido,Consumer Internet,Supply Chain Optimization,Hyderabad,"Westbridge Capital, Nexus Venture Partners",Seed/ Angel Funding,"84,541,410",
+237,invalid-date-97,Cure.fit,HealthTech,Teleconsultation,Gurgaon,"Temasek Holdings, Accel, Chiratae Ventures",Series D,"89,313,199",
+238,05/11/2018,Pine Labs,Fintech,Payment Gateway,Noida,"Chiratae Ventures, Elevation Capital, Ratan Tata",Private Equity,"178,307,952",
+239,26/09/2018,Spinny,Consumer Internet,Lending Platform,Goa,"Kunal Shah, Info Edge",Series C,"58,485,270",
+240,06/01/2018,Meesho,ECommerce,B2B Marketplace,Bangalore,"Matrix Partners India, Accel Partners, Anupam Mittal",Series F,undisclosed,
+241,10/05/2018,InCred,Media & Entertainment,Lending Platform,Gurugram,"FMO, Investcorp, Paragon Partners",Debt Funding,"36,691,173",
+242,21/10/2018 ,Cure.fit,HealthTech,Agritech Analytics,Chandigarh,Ratan Tata,Seed / Angle Funding,"103,058,090",Late stage expansion / acquired earlier
+243,19/09.2018,Delhivery,Fintech,B2B Marketplace,Gurugram,"SoftBank Vision Fund, Carlyle Group, Tiger Global",Series A,"422,708,098",
+244,04/11/2018,Urban Company,Consumer Internet,AI Workflow Automation,Gurgaon,"Kunal Shah, Info Edge, Kalaari Capital",Series C,"94,161,633",Late stage expansion / acquired earlier
+245,02/07/2018,Ather Energy,Fintech,Supply Chain Optimization,Gurgaon / New Delhi,"Hero MotoCorp, Sachin Bansal, InnoVen Capital",Others,undisclosed,
+246,01/11/2018,Nykaa,eCommerce,Supply Chain Optimization,Mumbai,"Binny Bansal, Elevation Capital",Private Equity,"66,024,109",Late stage expansion / acquired earlier
+247,10/08/2018,Vedantu,EdTech,Lending Platform,Bangalore,"Kunal Shah, Binny Bansal",Series D,"30,810,453",Late stage expansion / acquired earlier
+248,11/11/2019,Pine Labs,Fintech,Fleet Management,Noida,Accel Partners,Private Equity,"155,165,320",
+249,16/11/2019,Pine Labs,Technology,Wealth Management,Goa,"Nexus Venture Partners, Chiratae Ventures, Matrix Partners India",Debt,"153,221,229",
+250,27/03/2019,Rebel Foods,Food & Beverage,Lending Platform,Pune,"Kunal Shah, Kalaari Capital, Sachin Bansal",Seed / Angle Funding,"52,915,990",
+251,26/07/2019,Khatabook,FinTech,AI Workflow Automation,Indore,"B Capital Group, Sequoia Capital India, Falcon Edge",Seed / Angle Funding,"23,427,099",Late stage expansion / acquired earlier
+252,13/11/2019,Spinny,Consumer Internet,K-12 Education,Gurgaon,"General Catalyst, Tiger Global, Elevation Capital",Series C,"106,378,131",
+253,28/06/2019,Byju's,EdTech,Teleconsultation,Bengaluru,"General Atlantic, Chan Zuckerberg Initiative, Naspers",Private Equity,"\xc2\xa0$638,797,957",
+254,16/03/2019,Byju's,EdTech,Agritech Analytics,Ahmedabad,"General Atlantic, Chan Zuckerberg Initiative, Naspers",Private Equity,undisclosed,
+255,12/12/2019,Cars24,AgriTech,Cloud Kitchen,Gurgaon,"DST Global, SoftBank, Exor Seeds",Series B,"130,522,420",Late stage expansion / acquired earlier
+256,17/07/2019,PolicyBazaar,Fin-Tech,Fleet Management,Jaipur,"Ratan Tata, Chiratae Ventures, Orios Venture Partners",Angel Funding,"325,484,321",
+257,06/04/2019,BharatPe,Fin-Tech,K-12 Education,Delhi,"Coatue Management, Ribbit Capital, Insight Partners",Seed / Angel,"89,133,424",Late stage expansion / acquired earlier
+258,09/11/2019,Vedantu,EdTech,B2B Marketplace,Bangalore / USA,SoftBank Vision Fund,Series D,"100,774,417",
+259,07/03/2019,Flipkart,eCommerce,SaaS CRM,Mumbai / USA,"SoftBank Vision Fund, Tiger Global Management, Accel Partners",Seed / Angel,"1,583,359,989",Late stage expansion / acquired earlier
+260,16/02/2019,Delhivery,AgriTech,Cloud Kitchen,Gurugram,"SoftBank Vision Fund, Carlyle Group, Tiger Global",Series F,"678,610,252",
+261,11/08/2019,Flipkart,eCommerce,EV Charging Infrastructure,Bengaluru,"SoftBank Vision Fund, Tiger Global Management, Accel Partners",Seed / Angel,"1,648,625,139",
+262,09/05/2019,Razorpay,E-Commerce,Fleet Management,Bangalore / USA,"SoftBank Vision Fund, Accel Partners",Series C,N/A,
+263,12/06/2019,Vedantu,EdTech,Payment Gateway,Bangalore,"Coatue, GGV Capital, Tiger Global",Series D,"84,894,270",
+264,28/12/2019,Spinny,Consumer Internet,Teleconsultation,Gurgaon,Kalaari Capital,Series C,"58,154,264",
+265,06/08/2019,Postman,Technology,K-12 Education,Bengaluru,"Insight Partners, Nexus Venture Partners, CRV",Debt Funding,undisclosed,Late stage expansion / acquired earlier
+266,01/06/2019,Moglix,Hospitality,Supply Chain Optimization,Gurgaon / New Delhi,"Ratan Tata, Undisclosed Investors, SoftBank Vision Fund",Series D,"53,602,616",
+267,invalid-date-72,Vedantu,EdTech,Teleconsultation,Bangalore,"Coatue, GGV Capital, Tiger Global",Series D,unknown,
+268,08/06/2019,CarDekho,Consumer Internet,Supply Chain Optimization,Jaipur,"Ping An Global Voyager Fund, Sequoia Capital India",Seed / Angle Funding,"101,654,507",
+269,15/08/2019,InCred,eCommerce,Lending Platform,Mumbai,"FMO, Investcorp, Paragon Partners",Seed / Angle Funding,"104,132,981",
+270,18/09/2019,Bounce,Consumer Internet,B2B Marketplace,Jaipur,"Accel, B Capital Group, Falcon Edge Capital",Debt,"72,005,373",
+271,25/02/2019,Flipkart,ecommerce,InsurTech,Bengaluru,"Blume Ventures, Orios Venture Partners",Private Equity,"529,481,331",
+272,07/07/2019,Delhivery,ECommerce,Agritech Analytics,Gurugram,"Rajan Anandan, SoftBank Vision Fund, Kae Capital",Series F,"385,058,798",
+273,17/01/2019,Rebel Foods,Hospitality,EV Charging Infrastructure,Delhi,Blume Ventures,Series D,"138,847,669",
+274,14/07/2019,Urban Company,Consumer Internet,Hyperlocal Delivery,Jaipur,Orios Venture Partners,Others,"67,612,073",
+275,24/12/2019,Udaan,ecommerce,InsurTech,New Delhi,"Kalaari Capital, Ratan Tata, Kunal Shah",Series E,"808,093,431",
+276,19/10/2019,Spinny,Consumer Internet,Fleet Management,Kolkata,"SoftBank Vision Fund, Sequoia Capital India, India Quotient",Series C,"25,988,899",
+277,10/03/2019,Meesho,Gaming,Fleet Management,Bangalore,"Kae Capital, SoftBank Vision Fund",Series B,"129,027,933",Late stage expansion / acquired earlier
+278,10/12/2019,Swiggy,Technology,Agritech Analytics,Gurgaon / New Delhi,"Naspers, Tencent, Hillhouse Capital",Seed Funding,"405,402,639",
+279,27/08/2019,Khatabook,SaaS,Cloud Kitchen,Gurgaon,"B Capital Group, Sequoia Capital India, Falcon Edge",Series B,"22,632,541",Late stage expansion / acquired earlier
+280,04/09/2019,Eruditus,EdTech,SaaS CRM,Mumbai,"Sequoia Capital India, Chiratae Ventures",Series D,"13,548,251",
+281,02/10/2019,Vedantu,HealthTech,EV Charging Infrastructure,Coimbatore,"Coatue, GGV Capital, Tiger Global",Series E,"172,472,850",
+282,06/09/2019,Infra.Market,ecommerce,Supply Chain Optimization,Gurgaon / New Delhi,"Tiger Global, Nexus Venture Partners",Series B,"\xc2\xa0$23,074,359",
+283,27/09/2019,Flipkart,ecommerce,AI Workflow Automation,Bengaluru,"Matrix Partners India, Accel Partners, Sachin Bansal",Private Equity,"2,385,219,792",
+284,24/09/2019,Moglix,Consumer Internet,AI Workflow Automation,Noida,"Tiger Global, Falcon Edge Capital, Sequoia Capital India",Series E,"102,562,241",Late stage expansion / acquired earlier
+285,18/09.2019,Zomato,Consumer Internet,Cloud Kitchen,Kolkata,Kunal Shah,PrivateEquity,"355,858,533",
+286,01/03/2019,Freshworks,Technology,Payment Gateway,Chennai,"Tiger Global Management, Rajan Anandan, Matrix Partners India",PrivateEquity,"172,932,031",
+287,13/01/2019,Infra.Market,eCommerce,B2B Marketplace,Mumbai,"Tiger Global, Nexus Venture Partners",Series D,"11,547,274",Late stage expansion / acquired earlier
+288,13/08/2019,Paytm,Fintech,Supply Chain Optimization,Noida,"Alibaba Group, SoftBank, Berkshire Hathaway",Series D,"302,132,190",
+289,21/12/2019,Flipkart,E-Commerce,Lending Platform,Bengaluru,"Kunal Shah, Tiger Global Management",Private Equity,"2,283,688,621",
+290,21/07/2019,Meesho,E-Commerce,SaaS CRM,Bangalore,"Naspers Ventures, Sequoia Capital India, Shunwei Capital",Seed/ Angel Funding,"210,205,908",
+291,21/08/2019,Pharmeasy,HealthTech,SaaS CRM,Mumbai,"Chiratae Ventures, Info Edge",Series D,"49,517,347",
+292,11/04/2019,Freshworks,Technology,Fleet Management,New Delhi,"Chiratae Ventures, Orios Venture Partners",Series H,"213,735,779",
+293,14/11/2019,Khatabook,Fintech,Hyperlocal Delivery,Jaipur,"B Capital Group, Sequoia Capital India, Falcon Edge",Debt,"21,455,866",
+294,28/05/2019,Infra.Market,eCommerce,Payment Gateway,Chandigarh,"Rajan Anandan, India Quotient, Nexus Venture Partners",Series C,"35,955,486",
+295,12/03/2019,Practo,HealthTech,K-12 Education,Bangalore,"Info Edge, Ratan Tata",Series D,"64,020,014",
+296,06/11/2019,Nykaa,E-Commerce,K-12 Education,Indore,Matrix Partners India,Series B,undisclosed,
+297,22/01/2019,Khatabook,FinTech,B2B Marketplace,Bengaluru,Ratan Tata,Series C,"30,648,187",
+298,13/03/2019,Khatabook,Fin-Tech,SaaS CRM,Bengaluru,"India Quotient, Info Edge, Anupam Mittal",Seed Funding,"17,591,672",Late stage expansion / acquired earlier
+299,17/02/2019,Udaan,E-Commerce,InsurTech,Bombay,"Chiratae Ventures, SoftBank Vision Fund",Series D,"244,958,169",Late stage expansion / acquired earlier
+300,01/07/2019,Nykaa,E-Commerce,K-12 Education,Bengaluru,Accel Partners,Private Equity,"95,412,121",
+301,21/10.2019,Pharmeasy,Fintech,AI Workflow Automation,Indore,Matrix Partners India,Angel Funding,"326,874,474",Late stage expansion / acquired earlier
+302,17/11/2019,Freshworks,DeepTech,Payment Gateway,Chennai,"Sequoia Capital, Accel Partners, CapitalG",Series H,"\xc2\xa0$195,514,255",
+303,invalid-date-13,Unacademy,EdTech,B2B Marketplace,Coimbatore,Tiger Global Management,Series E,N/A,
+304,25/01/2019,Eruditus,EdTech,InsurTech,Mumbai / USA,Anupam Mittal,Private Equity,"164,763,810",
+305,19/12/2019 ,Nykaa,E-Commerce,Payment Gateway,Mumbai,"Elevation Capital, Nexus Venture Partners",Private Equity,"6,244,963",
+306,13/01/2020,Cars24,Consumer Internet,Lending Platform,Gurgaon,"Elevation Capital, Kunal Shah",Series E,"106,446,190",
+307,14/04/2020,Rebel Foods,Food & Beverage,InsurTech,Pune,"Coatue, Gojek, Sequoia Capital India",Series F,"93,340,883",Late stage expansion / acquired earlier
+308,04/11/2020,Cure.fit,FinTech,Lending Platform,Bengaluru,"Temasek Holdings, Accel, Chiratae Ventures",Series D,"139,683,551",
+309,13/03/2020,Flipkart,Fin-Tech,EV Charging Infrastructure,Kolkata,"SoftBank Vision Fund, Tiger Global Management, Accel Partners",Private Equity,"1,562,120,709",
+310,20/07/2020,Pharmeasy,DeepTech,B2B Marketplace,Delhi,"Sequoia Capital India, Nexus Venture Partners",Others,"51,394,057",
+311,23/09/2020,PolicyBazaar,FinTech,Supply Chain Optimization,Delhi,"SoftBank Vision Fund, Info Edge, True North",Series F,"244,381,716",
+312,17/04.2020,Zomato,SaaS,Fleet Management,Coimbatore,"Info Edge, Elevation Capital",Private Equity,"177,623,935",
+313,09/01/2020,Lead School,EdTech,Payment Gateway,Mumbai,"Westbridge Capital, Elevar Equity",Series C,"14,026,975",
+314,09/10/2020,Groww,Fin-Tech,Hyperlocal Delivery,Jaipur,"Sequoia Capital India, Anupam Mittal, SoftBank Vision Fund",Series C,"42,904,440",Late stage expansion / acquired earlier
+315,08/12/2020,Spinny,AgriTech,Online Retail,Noida,"General Catalyst, Tiger Global, Elevation Capital",Series C,"96,647,245",Late stage expansion / acquired earlier
+316,16/03/2020,Udaan,Edtech,Teleconsultation,Gurgaon / New Delhi,Anupam Mittal,Series B,"922,720,132",Late stage expansion / acquired earlier
+317,27/04/2020,Vedantu,EdTech,Lending Platform,Bangalore,"Coatue, GGV Capital, Tiger Global",Debt,"138,742,737",
+318,28/01/2020,Vedantu,EdTech,SaaS CRM,Bangalore,"Elevation Capital, India Quotient, Matrix Partners India",Angel Funding,undisclosed,
+319,18/08.2020,Postman,Technology,Teleconsultation,Bengaluru,"Insight Partners, Nexus Venture Partners, CRV",Series E,"10,602,744",Late stage expansion / acquired earlier
+320,04/10/2020,Vedantu,FinTech,SaaS CRM,Bangalore,"Coatue, GGV Capital, Tiger Global",Series F,"\xc2\xa0$69,352,003",
+321,12/06/2020,CarDekho,Consumer Internet,K-12 Education,Gurgaon / New Delhi,"Ping An Global Voyager Fund, Sequoia Capital India",Series D,"30,506,362",
+322,invalid-date-95,Meesho,eCommerce,Teleconsultation,Bangalore,"Naspers Ventures, Sequoia Capital India, Shunwei Capital",Others,"75,315,335",
+323,18/05/2020,Swiggy,Consumer Internet,Teleconsultation,Bangalore,"Binny Bansal, SoftBank Vision Fund",Series G,"681,683,536",
+324,12/05.2020,CRED,Fintech,Cloud Kitchen,Bengaluru,"Kalaari Capital, Lightspeed Venture Partners, Info Edge",Series B,"168,696,317",
+325,13/02/2020,Bounce,Consumer Internet,K-12 Education,Bangalore / USA,"Orios Venture Partners, Binny Bansal",Private Equity,"18,359,474",Late stage expansion / acquired earlier
+326,11/04/2020,Pharmeasy,DeepTech,Wealth Management,Mumbai,"Temasek, CDPQ, LGT Lightstone Aspada",Series F,"211,560,241",
+327,06/03/2020,Nykaa,Media & Entertainment,SaaS CRM,Mumbai / USA,Kalaari Capital,Private Equity,undisclosed,
+328,18/08/2020 ,BharatPe,Fin-Tech,Lending Platform,Delhi,"Coatue Management, Ribbit Capital, Insight Partners",Private Equity,"36,220,793",Late stage expansion / acquired earlier
+329,invalid-date-22,Paytm,FinTech,Hyperlocal Delivery,Jaipur,"Elevation Capital, Kunal Shah, Kae Capital",Private Equity,"993,753,244",
+330,21/08/2020,Ather Energy,Automotive,Fleet Management,Indore,Kae Capital,Series C,"16,447,790",Late stage expansion / acquired earlier
+331,27/09/2020,Nykaa,ECommerce,Online Retail,Indore,"Lightspeed Venture Partners, Sequoia Capital India",Series D,"144,434,292",
+332,14/04/2020,Eruditus,EdTech,Teleconsultation,Bangalore / USA,"Prosus Ventures, Chan Zuckerberg Initiative",Series D,"70,313,050",Late stage expansion / acquired earlier
+333,26/10/2020,CarDekho,Consumer Internet,SaaS CRM,Jaipur,Blume Ventures,Series D,"79,171,853",Late stage expansion / acquired earlier
+334,16/10/2020,Paytm,Fintech,Online Retail,Noida,"Alibaba Group, SoftBank, Berkshire Hathaway",Private Equity,"1,322,437,373",Late stage expansion / acquired earlier
+335,01/03/2020,Freshworks,Technology,EV Charging Infrastructure,Jaipur,Chiratae Ventures,Series H,"45,848,054",Late stage expansion / acquired earlier
+336,03/07/2020,Unacademy,EdTech,SaaS CRM,Bangalore,"General Atlantic, Sequoia Capital India, Blume Ventures",Series B,"193,182,151",Late stage expansion / acquired earlier
+337,07/01/2020,Razorpay,Fin-Tech,EV Charging Infrastructure,Bangalore / USA,"Kalaari Capital, Binny Bansal",Others,N/A,
+338,07/05/2020,Swiggy,Fintech,Lending Platform,Bangalore,"Naspers, Tencent, Hillhouse Capital",Series G,"1,073,219,505",
+339,01/04/2020,Practo,Automotive,K-12 Education,Bangalore,"Tencent, Sofina, Sequoia Capital India",Series D,undisclosed,
+340,02/11/2020 ,Meesho,ECommerce,K-12 Education,Bangalore,"Naspers Ventures, Sequoia Capital India, Shunwei Capital",Series F,"102,219,758",Late stage expansion / acquired earlier
+341,13/12/2020,Nykaa,eCommerce,EV Charging Infrastructure,Coimbatore,"Steadview Capital, TPG Growth, Fidelity Management",Series A,"100,133,595",
+342,09/08/2020,Zetwerk,SaaS,Teleconsultation,Bengaluru,"Greenoaks Capital, Lightspeed, Sequoia Capital India",Series C,"68,053,524",Late stage expansion / acquired earlier
+343,17/11/2020,Unacademy,DeepTech,InsurTech,Gurugram,"General Atlantic, Sequoia Capital India, Blume Ventures",Series E,"163,167,073",Late stage expansion / acquired earlier
+344,16/11/2020,Meesho,ecommerce,Agritech Analytics,Bombay,"Naspers Ventures, Sequoia Capital India, Shunwei Capital",Seed/ Angel Funding,"34,638,120",
+345,04/04/2020,Razorpay,Fintech,Wealth Management,Chandigarh,"Elevation Capital, Accel Partners, Info Edge",Series C,"5,467,551",
+346,16/11/2020,Byju's,EdTech,B2B Marketplace,Bengaluru,"Info Edge, Accel Partners",Series C,"720,913,819",
+347,07/02/2020,Razorpay,Fin-Tech,Wealth Management,Bangalore / USA,Rajan Anandan,Angel,"77,006,085",
+348,19/11/2020,Bounce,Logistics,Lending Platform,Bengaluru,"Accel, B Capital Group, Falcon Edge Capital",Series D,"34,314,923",
+349,12/08/2020,Rebel Foods,Healthcare,InsurTech,Pune,"Chiratae Ventures, Undisclosed Investors, Matrix Partners India",Series A,"126,614,716",
+350,15/06/2020,BharatPe,Fin-Tech,Fleet Management,Delhi,"Sequoia Capital India, Lightspeed Venture Partners",Series A,"6,598,305",
+351,27/12/2020,Rebel Foods,Food & Beverage,K-12 Education,Pune,"Coatue, Gojek, Sequoia Capital India",Series D,"136,203,169",Late stage expansion / acquired earlier
+352,26/05/2020,Ather Energy,Automotive,Cloud Kitchen,Hyderabad,Anupam Mittal,Seed / Angel,"29,360,097",
+353,13/10/2020 ,Swiggy,Healthcare,InsurTech,Kolkata,"Naspers, Tencent, Hillhouse Capital",Series B,"1,536,586,792",
+354,25/11/2020,Swiggy,Consumer Internet,B2B Marketplace,Bangalore,"Ratan Tata, Matrix Partners India",Series G,"1,795,392,780",
+355,19/10/2020,BigBasket,ECommerce,K-12 Education,Bengaluru,"Alibaba Group, Mirae Asset, CDC Group",Seed/ Angel Funding,"76,421,468",
+356,25/07/2020,Nykaa,E-Commerce,EV Charging Infrastructure,Mumbai,"Undisclosed Investors, Ratan Tata, Matrix Partners India",Private Equity,"63,006,573",
+357,03/102020,Spinny,Consumer Internet,InsurTech,Gurgaon,"General Catalyst, Tiger Global, Elevation Capital",Series D,unknown,
+358,invalid-date-6,BigBasket,ecommerce,K-12 Education,Mumbai,"Alibaba Group, Mirae Asset, CDC Group",Series F,"250,766,544",
+359,01/05/2020,CRED,FinTech,Online Retail,Bengaluru,Nexus Venture Partners,Series C,"136,838,818",
+360,23/12/2020,Groww,Fintech,B2B Marketplace,Bangalore,"Tiger Global, Sequoia Capital India, Y Combinator",Series C,"15,742,276",
+361,03/01/2020,CarDekho,Consumer Internet,InsurTech,Bangalore,"Ping An Global Voyager Fund, Sequoia Capital India",Private Equity,"40,649,084",
+362,11/02/2020,Zetwerk,Technology,Teleconsultation,Bengaluru,"Sequoia Capital India, Accel Partners, Matrix Partners India",Series D,"88,613,961",Late stage expansion / acquired earlier
+363,22/06/2020,Lenskart,ecommerce,B2B Marketplace,Ahmedabad,Kunal Shah,Series B,N/A,
+364,05/11/2020 ,Groww,Fintech,Supply Chain Optimization,Bangalore,"Lightspeed Venture Partners, Undisclosed Investors",Series C,"12,354,756",Late stage expansion / acquired earlier
+365,22/09/2020,Nykaa,E-Commerce,Agritech Analytics,New Delhi,"Kalaari Capital, Chiratae Ventures, Tiger Global Management",Seed / Angel,"\xc2\xa0$127,533,151",Late stage expansion / acquired earlier
+366,25/01/2020,Spinny,HealthTech,AI Workflow Automation,Bangalore / USA,"Blume Ventures, Nexus Venture Partners",Series C,"\xc2\xa0$75,882,721",
+367,20/05/2020,BigBasket,E-Commerce,Online Retail,Bengaluru,"Blume Ventures, Ratan Tata",Debt,"105,664,342",
+368,invalid-date-25,BigBasket,eCommerce,SaaS CRM,Gurugram,Nexus Venture Partners,Series F,"266,227,255",
+369,23/08/2020,Bounce,Logistics,Wealth Management,Kochi,"Chiratae Ventures, India Quotient",Others,"134,630,681",Late stage expansion / acquired earlier
+370,15/02/2020,Ola Cabs,EdTech,Wealth Management,Bengaluru,"Binny Bansal, Accel Partners, Nexus Venture Partners",Series D,"291,484,879",
+371,06/08/2020,Vedantu,Gaming,K-12 Education,Bangalore,Ratan Tata,Series D,"169,122,430",
+11,08/05/2015 ,Ather Energy,ecommerce,EV Charging Infrastructure,Coimbatore,Sachin Bansal,Series C,"26,206,304",
+26,28/01/2015,Delhivery,Food & Beverage,InsurTech,Gurugram,Matrix Partners India,Series F,"\xc2\xa0$231,101,060",
